@@ -40,3 +40,9 @@ JavaScript -which was used to add functionality to the website.
 Materialize CSS
 
 [Go Back to the top](#JaymazGYM)
+
+# License
+
+Copyright (c) 2023 [click to view License](LICENSE)
+
+## Author Info
