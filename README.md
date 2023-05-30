@@ -25,3 +25,11 @@ Click on the live link in the about section
 ### Installation Process
 
 [Go Back to the top](#JaymazGYM)
+
+## Technology Used
+
+HTML - which was used to build the structure of the pages.
+
+CSS - which was used to style the pages incuding the left aside navigation bar
+
+JavaScript -which was used to add functionality to the website.
