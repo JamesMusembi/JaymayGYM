@@ -23,3 +23,5 @@ Make sure you have access to internet
 Click on the live link in the about section
 
 ### Installation Process
+
+[Go Back to the top](#JaymazGYM)
