@@ -1,5 +1,5 @@
 # JaymazGYM
-
+##### James Musembi 
 
 ## Table of Content
 
